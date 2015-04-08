@@ -1,0 +1,5 @@
+var config = {
+    host: 'http://companyname.website',
+    portStart: 8080,
+    devices: 9
+}
